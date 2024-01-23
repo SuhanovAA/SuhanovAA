@@ -4,6 +4,9 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://i.imgur.com/zINUxVf.png" alt="C" width="50"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+  <img src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg" alt="Python" height="50"/>
+</a>
 <a href="https://www.wikiwand.com/en/Bash_(Unix_shell)">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="Bash" height="50"/>
 </a>
