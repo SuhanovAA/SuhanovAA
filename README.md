@@ -14,8 +14,8 @@
 
 [![VCS](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)  
 
-> :atom:  IDEs - Vim | Nano | Visual Studio Code | Notepad++
+> :atom:  IDEs - Vim | Visual Studio Code
 
-[![MySkills](https://skillicons.dev/icons?i=vim,nano,vscode,notepad)](https://skillicons.dev)  
+[![MySkills](https://skillicons.dev/icons?i=vim,vscode)](https://skillicons.dev)  
 
 <br>
