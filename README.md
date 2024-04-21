@@ -2,7 +2,8 @@
 
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,macos,c,py,html,css,git,github,gitlab,vim,bash)](https://skillicons.dev)
+[![Use_OS](https://skillicons.dev/icons?i=linux,windows,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,html,css,git,github,gitlab,vim,bash)](https://skillicons.dev)
 
 <br>
 
